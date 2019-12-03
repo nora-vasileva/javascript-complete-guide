@@ -1,0 +1,54 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+header {
+  padding: .5rem;
+  background-color: #034091;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+#calculator {
+  margin: 2rem auto;
+  padding: .5rem;
+  width: 40%;
+  border: 1px solid #034091;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#input-number {
+  margin-bottom: 1rem;
+  width: 80px;
+  border: 1px solid #034091;
+  color: #034091;
+  font-size: 1.5rem;
+}
+
+#btn-add, #btn-subtract, #btn-multiply, #btn-divide {
+  padding: .7rem 1.2rem;
+  background-color: #034091;
+  border: 0;
+  color: #fff;
+  text-align: center;
+}
+
+#results {
+  margin: 2rem auto;
+  padding: .5rem;
+  width: 40%;
+  border: 1px solid #034091;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#results h2 {
+  font-size: 1rem;
+  color: #034091;
+}
